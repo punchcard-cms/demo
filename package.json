@@ -37,7 +37,7 @@
     "input-plugin-number": "^0.2.1",
     "input-plugin-text": "^0.1.3",
     "input-plugin-textarea": "^0.1.3",
-    "lodash": "^4.17.0",
+    "lodash": "^4.17.9",
     "punchcard-cms": "2.42.23",
     "punchcard-runner": "^2.1.11"
   },
