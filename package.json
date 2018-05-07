@@ -81,6 +81,6 @@
     "generateNotes": "punchcard-semantic-release/notes"
   },
   "engines": {
-    "node": "^6"
+    "node": "10"
   }
 }
